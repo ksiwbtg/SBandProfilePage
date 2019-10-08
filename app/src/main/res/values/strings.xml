@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Navigation Draw Multiple Activity Test</string>
+    <string-array name="navigation_drawer_items_array">
+        <item>Home</item>
+        <item>Profile</item>
+        <item>Contact</item>
+    </string-array>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="admin">i</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="contact">ぐへへへへ</string>
+    <string name="hello">Hello</string>
+</resources>
